@@ -1,0 +1,1345 @@
+day_of_week,hour,category,traffic_score
+0,0,Artificial Intelligence,21.2
+0,0,Machine Learning,18.7
+0,0,Software Development,21.8
+0,0,Data Science,25.3
+0,0,Cloud Computing,18.3
+0,0,Cybersecurity,18.3
+0,0,Web Development,25.6
+0,0,Tech Trends & Future,22.3
+0,1,Artificial Intelligence,17.4
+0,1,Machine Learning,21.4
+0,1,Software Development,17.4
+0,1,Data Science,17.4
+0,1,Cloud Computing,20.2
+0,1,Cybersecurity,11.6
+0,1,Web Development,12.4
+0,1,Tech Trends & Future,17.0
+0,2,Artificial Intelligence,15.2
+0,2,Machine Learning,20.5
+0,2,Software Development,15.6
+0,2,Data Science,13.6
+0,2,Cloud Computing,25.1
+0,2,Cybersecurity,18.3
+0,2,Web Development,19.5
+0,2,Tech Trends & Future,13.6
+0,3,Artificial Intelligence,17.1
+0,3,Machine Learning,19.7
+0,3,Software Development,14.6
+0,3,Data Science,20.8
+0,3,Cloud Computing,16.8
+0,3,Cybersecurity,18.1
+0,3,Web Development,16.8
+0,3,Tech Trends & Future,26.7
+0,4,Artificial Intelligence,19.2
+0,4,Machine Learning,15.0
+0,4,Software Development,22.5
+0,4,Data Science,14.4
+0,4,Cloud Computing,20.1
+0,4,Cybersecurity,11.4
+0,4,Web Development,13.9
+0,4,Tech Trends & Future,20.0
+0,5,Artificial Intelligence,22.2
+0,5,Machine Learning,19.9
+0,5,Software Development,18.8
+0,5,Data Science,18.0
+0,5,Cloud Computing,13.3
+0,5,Cybersecurity,16.4
+0,5,Web Development,17.4
+0,5,Tech Trends & Future,23.5
+0,6,Artificial Intelligence,48.1
+0,6,Machine Learning,39.7
+0,6,Software Development,48.0
+0,6,Data Science,45.2
+0,6,Cloud Computing,44.0
+0,6,Cybersecurity,49.2
+0,6,Web Development,50.9
+0,6,Tech Trends & Future,50.5
+0,7,Artificial Intelligence,43.4
+0,7,Machine Learning,45.5
+0,7,Software Development,48.1
+0,7,Data Science,50.7
+0,7,Cloud Computing,44.8
+0,7,Cybersecurity,46.0
+0,7,Web Development,42.3
+0,7,Tech Trends & Future,42.0
+0,8,Artificial Intelligence,50.0
+0,8,Machine Learning,52.2
+0,8,Software Development,46.5
+0,8,Data Science,50.8
+0,8,Cloud Computing,48.2
+0,8,Cybersecurity,44.2
+0,8,Web Development,48.2
+0,8,Tech Trends & Future,52.9
+0,9,Artificial Intelligence,74.1
+0,9,Machine Learning,80.5
+0,9,Software Development,63.8
+0,9,Data Science,77.5
+0,9,Cloud Computing,74.6
+0,9,Cybersecurity,73.1
+0,9,Web Development,74.6
+0,9,Tech Trends & Future,66.3
+0,10,Artificial Intelligence,73.4
+0,10,Machine Learning,75.7
+0,10,Software Development,80.2
+0,10,Data Science,72.2
+0,10,Cloud Computing,71.0
+0,10,Cybersecurity,72.2
+0,10,Web Development,77.9
+0,10,Tech Trends & Future,75.6
+0,11,Artificial Intelligence,72.1
+0,11,Machine Learning,76.3
+0,11,Software Development,74.6
+0,11,Data Science,78.1
+0,11,Cloud Computing,71.4
+0,11,Cybersecurity,72.9
+0,11,Web Development,72.7
+0,11,Tech Trends & Future,68.4
+0,12,Artificial Intelligence,75.4
+0,12,Machine Learning,75.3
+0,12,Software Development,74.3
+0,12,Data Science,73.3
+0,12,Cloud Computing,68.6
+0,12,Cybersecurity,72.6
+0,12,Web Development,72.9
+0,12,Tech Trends & Future,71.0
+0,13,Artificial Intelligence,62.6
+0,13,Machine Learning,64.9
+0,13,Software Development,70.8
+0,13,Data Science,63.9
+0,13,Cloud Computing,64.3
+0,13,Cybersecurity,63.0
+0,13,Web Development,55.6
+0,13,Tech Trends & Future,63.1
+0,14,Artificial Intelligence,63.5
+0,14,Machine Learning,73.1
+0,14,Software Development,62.5
+0,14,Data Science,64.5
+0,14,Cloud Computing,63.1
+0,14,Cybersecurity,58.6
+0,14,Web Development,67.8
+0,14,Tech Trends & Future,66.3
+0,15,Artificial Intelligence,66.4
+0,15,Machine Learning,59.6
+0,15,Software Development,68.9
+0,15,Data Science,57.6
+0,15,Cloud Computing,65.6
+0,15,Cybersecurity,72.0
+0,15,Web Development,59.3
+0,15,Tech Trends & Future,61.0
+0,16,Artificial Intelligence,63.6
+0,16,Machine Learning,61.2
+0,16,Software Development,57.0
+0,16,Data Science,63.5
+0,16,Cloud Computing,59.0
+0,16,Cybersecurity,65.1
+0,16,Web Development,59.6
+0,16,Tech Trends & Future,69.4
+0,17,Artificial Intelligence,79.4
+0,17,Machine Learning,81.2
+0,17,Software Development,85.8
+0,17,Data Science,77.6
+0,17,Cloud Computing,83.4
+0,17,Cybersecurity,87.7
+0,17,Web Development,76.1
+0,17,Tech Trends & Future,83.2
+0,18,Artificial Intelligence,83.5
+0,18,Machine Learning,85.6
+0,18,Software Development,77.6
+0,18,Data Science,77.2
+0,18,Cloud Computing,84.6
+0,18,Cybersecurity,83.7
+0,18,Web Development,83.5
+0,18,Tech Trends & Future,83.9
+0,19,Artificial Intelligence,79.8
+0,19,Machine Learning,83.4
+0,19,Software Development,83.7
+0,19,Data Science,79.6
+0,19,Cloud Computing,90.0
+0,19,Cybersecurity,84.4
+0,19,Web Development,77.7
+0,19,Tech Trends & Future,85.1
+0,20,Artificial Intelligence,78.6
+0,20,Machine Learning,85.6
+0,20,Software Development,87.1
+0,20,Data Science,79.2
+0,20,Cloud Computing,86.4
+0,20,Cybersecurity,84.2
+0,20,Web Development,85.8
+0,20,Tech Trends & Future,90.1
+0,21,Artificial Intelligence,45.8
+0,21,Machine Learning,43.7
+0,21,Software Development,43.2
+0,21,Data Science,43.5
+0,21,Cloud Computing,46.4
+0,21,Cybersecurity,48.1
+0,21,Web Development,47.9
+0,21,Tech Trends & Future,50.1
+0,22,Artificial Intelligence,46.8
+0,22,Machine Learning,52.6
+0,22,Software Development,45.7
+0,22,Data Science,57.6
+0,22,Cloud Computing,49.3
+0,22,Cybersecurity,43.3
+0,22,Web Development,42.5
+0,22,Tech Trends & Future,48.7
+0,23,Artificial Intelligence,45.9
+0,23,Machine Learning,49.6
+0,23,Software Development,48.6
+0,23,Data Science,46.5
+0,23,Cloud Computing,43.4
+0,23,Cybersecurity,40.7
+0,23,Web Development,45.0
+0,23,Tech Trends & Future,50.2
+1,0,Artificial Intelligence,24.5
+1,0,Machine Learning,18.6
+1,0,Software Development,24.3
+1,0,Data Science,25.2
+1,0,Cloud Computing,20.1
+1,0,Cybersecurity,24.2
+1,0,Web Development,23.9
+1,0,Tech Trends & Future,19.1
+1,1,Artificial Intelligence,25.1
+1,1,Machine Learning,25.9
+1,1,Software Development,28.0
+1,1,Data Science,27.8
+1,1,Cloud Computing,18.1
+1,1,Cybersecurity,19.9
+1,1,Web Development,25.7
+1,1,Tech Trends & Future,25.7
+1,2,Artificial Intelligence,25.7
+1,2,Machine Learning,39.0
+1,2,Software Development,25.9
+1,2,Data Science,28.2
+1,2,Cloud Computing,27.4
+1,2,Cybersecurity,26.2
+1,2,Web Development,22.4
+1,2,Tech Trends & Future,26.7
+1,3,Artificial Intelligence,20.5
+1,3,Machine Learning,22.7
+1,3,Software Development,21.7
+1,3,Data Science,24.0
+1,3,Cloud Computing,32.9
+1,3,Cybersecurity,16.2
+1,3,Web Development,26.4
+1,3,Tech Trends & Future,17.2
+1,4,Artificial Intelligence,21.7
+1,4,Machine Learning,28.0
+1,4,Software Development,23.9
+1,4,Data Science,19.3
+1,4,Cloud Computing,20.8
+1,4,Cybersecurity,26.3
+1,4,Web Development,20.7
+1,4,Tech Trends & Future,24.5
+1,5,Artificial Intelligence,23.8
+1,5,Machine Learning,21.0
+1,5,Software Development,32.2
+1,5,Data Science,26.2
+1,5,Cloud Computing,15.5
+1,5,Cybersecurity,24.4
+1,5,Web Development,21.0
+1,5,Tech Trends & Future,27.0
+1,6,Artificial Intelligence,54.2
+1,6,Machine Learning,56.9
+1,6,Software Development,59.4
+1,6,Data Science,60.8
+1,6,Cloud Computing,52.6
+1,6,Cybersecurity,56.0
+1,6,Web Development,55.5
+1,6,Tech Trends & Future,54.8
+1,7,Artificial Intelligence,64.4
+1,7,Machine Learning,59.0
+1,7,Software Development,52.3
+1,7,Data Science,61.0
+1,7,Cloud Computing,65.9
+1,7,Cybersecurity,61.5
+1,7,Web Development,51.3
+1,7,Tech Trends & Future,55.4
+1,8,Artificial Intelligence,62.4
+1,8,Machine Learning,54.5
+1,8,Software Development,59.2
+1,8,Data Science,60.5
+1,8,Cloud Computing,53.7
+1,8,Cybersecurity,57.1
+1,8,Web Development,44.4
+1,8,Tech Trends & Future,53.3
+1,9,Artificial Intelligence,90.1
+1,9,Machine Learning,86.1
+1,9,Software Development,97.7
+1,9,Data Science,85.4
+1,9,Cloud Computing,89.4
+1,9,Cybersecurity,91.6
+1,9,Web Development,96.9
+1,9,Tech Trends & Future,85.4
+1,10,Artificial Intelligence,95.8
+1,10,Machine Learning,91.2
+1,10,Software Development,87.2
+1,10,Data Science,93.0
+1,10,Cloud Computing,91.9
+1,10,Cybersecurity,88.7
+1,10,Web Development,91.4
+1,10,Tech Trends & Future,89.6
+1,11,Artificial Intelligence,91.6
+1,11,Machine Learning,93.8
+1,11,Software Development,97.5
+1,11,Data Science,86.2
+1,11,Cloud Computing,99.0
+1,11,Cybersecurity,83.3
+1,11,Web Development,90.5
+1,11,Tech Trends & Future,93.5
+1,12,Artificial Intelligence,92.2
+1,12,Machine Learning,88.6
+1,12,Software Development,90.3
+1,12,Data Science,89.2
+1,12,Cloud Computing,88.8
+1,12,Cybersecurity,94.5
+1,12,Web Development,92.6
+1,12,Tech Trends & Future,88.4
+1,13,Artificial Intelligence,81.2
+1,13,Machine Learning,78.9
+1,13,Software Development,80.9
+1,13,Data Science,80.1
+1,13,Cloud Computing,74.3
+1,13,Cybersecurity,75.4
+1,13,Web Development,80.6
+1,13,Tech Trends & Future,80.1
+1,14,Artificial Intelligence,77.5
+1,14,Machine Learning,78.1
+1,14,Software Development,82.7
+1,14,Data Science,75.3
+1,14,Cloud Computing,79.8
+1,14,Cybersecurity,76.8
+1,14,Web Development,76.8
+1,14,Tech Trends & Future,82.0
+1,15,Artificial Intelligence,80.9
+1,15,Machine Learning,80.9
+1,15,Software Development,82.8
+1,15,Data Science,77.7
+1,15,Cloud Computing,80.4
+1,15,Cybersecurity,76.4
+1,15,Web Development,78.9
+1,15,Tech Trends & Future,77.1
+1,16,Artificial Intelligence,78.0
+1,16,Machine Learning,80.0
+1,16,Software Development,74.4
+1,16,Data Science,86.0
+1,16,Cloud Computing,73.6
+1,16,Cybersecurity,72.8
+1,16,Web Development,82.3
+1,16,Tech Trends & Future,80.8
+1,17,Artificial Intelligence,99.0
+1,17,Machine Learning,99.0
+1,17,Software Development,99.0
+1,17,Data Science,97.7
+1,17,Cloud Computing,99.0
+1,17,Cybersecurity,98.5
+1,17,Web Development,99.0
+1,17,Tech Trends & Future,99.0
+1,18,Artificial Intelligence,97.9
+1,18,Machine Learning,99.0
+1,18,Software Development,99.0
+1,18,Data Science,99.0
+1,18,Cloud Computing,98.0
+1,18,Cybersecurity,99.0
+1,18,Web Development,99.0
+1,18,Tech Trends & Future,99.0
+1,19,Artificial Intelligence,99.0
+1,19,Machine Learning,99.0
+1,19,Software Development,95.5
+1,19,Data Science,95.6
+1,19,Cloud Computing,98.4
+1,19,Cybersecurity,99.0
+1,19,Web Development,99.0
+1,19,Tech Trends & Future,99.0
+1,20,Artificial Intelligence,99.0
+1,20,Machine Learning,99.0
+1,20,Software Development,99.0
+1,20,Data Science,97.2
+1,20,Cloud Computing,99.0
+1,20,Cybersecurity,99.0
+1,20,Web Development,99.0
+1,20,Tech Trends & Future,97.9
+1,21,Artificial Intelligence,59.5
+1,21,Machine Learning,63.5
+1,21,Software Development,56.9
+1,21,Data Science,59.0
+1,21,Cloud Computing,60.1
+1,21,Cybersecurity,55.8
+1,21,Web Development,58.3
+1,21,Tech Trends & Future,57.4
+1,22,Artificial Intelligence,57.8
+1,22,Machine Learning,54.3
+1,22,Software Development,57.5
+1,22,Data Science,59.4
+1,22,Cloud Computing,63.2
+1,22,Cybersecurity,61.2
+1,22,Web Development,66.0
+1,22,Tech Trends & Future,54.3
+1,23,Artificial Intelligence,60.9
+1,23,Machine Learning,58.1
+1,23,Software Development,66.1
+1,23,Data Science,54.1
+1,23,Cloud Computing,54.0
+1,23,Cybersecurity,55.0
+1,23,Web Development,48.9
+1,23,Tech Trends & Future,55.3
+2,0,Artificial Intelligence,20.6
+2,0,Machine Learning,24.2
+2,0,Software Development,25.0
+2,0,Data Science,31.1
+2,0,Cloud Computing,27.4
+2,0,Cybersecurity,21.3
+2,0,Web Development,20.0
+2,0,Tech Trends & Future,25.6
+2,1,Artificial Intelligence,18.3
+2,1,Machine Learning,31.0
+2,1,Software Development,28.3
+2,1,Data Science,21.7
+2,1,Cloud Computing,16.8
+2,1,Cybersecurity,29.0
+2,1,Web Development,23.2
+2,1,Tech Trends & Future,28.6
+2,2,Artificial Intelligence,17.2
+2,2,Machine Learning,21.2
+2,2,Software Development,23.6
+2,2,Data Science,23.8
+2,2,Cloud Computing,21.8
+2,2,Cybersecurity,26.1
+2,2,Web Development,19.4
+2,2,Tech Trends & Future,23.1
+2,3,Artificial Intelligence,24.1
+2,3,Machine Learning,25.7
+2,3,Software Development,26.5
+2,3,Data Science,19.1
+2,3,Cloud Computing,17.5
+2,3,Cybersecurity,28.7
+2,3,Web Development,25.0
+2,3,Tech Trends & Future,20.6
+2,4,Artificial Intelligence,29.8
+2,4,Machine Learning,24.1
+2,4,Software Development,28.3
+2,4,Data Science,23.9
+2,4,Cloud Computing,31.9
+2,4,Cybersecurity,30.6
+2,4,Web Development,22.6
+2,4,Tech Trends & Future,27.5
+2,5,Artificial Intelligence,26.2
+2,5,Machine Learning,29.1
+2,5,Software Development,19.8
+2,5,Data Science,26.4
+2,5,Cloud Computing,27.9
+2,5,Cybersecurity,16.6
+2,5,Web Development,18.9
+2,5,Tech Trends & Future,15.5
+2,6,Artificial Intelligence,56.3
+2,6,Machine Learning,60.2
+2,6,Software Development,63.4
+2,6,Data Science,57.7
+2,6,Cloud Computing,63.9
+2,6,Cybersecurity,51.9
+2,6,Web Development,50.6
+2,6,Tech Trends & Future,57.2
+2,7,Artificial Intelligence,58.9
+2,7,Machine Learning,57.2
+2,7,Software Development,49.1
+2,7,Data Science,57.0
+2,7,Cloud Computing,52.2
+2,7,Cybersecurity,60.1
+2,7,Web Development,58.8
+2,7,Tech Trends & Future,53.6
+2,8,Artificial Intelligence,55.3
+2,8,Machine Learning,53.1
+2,8,Software Development,57.1
+2,8,Data Science,61.2
+2,8,Cloud Computing,53.4
+2,8,Cybersecurity,59.4
+2,8,Web Development,55.3
+2,8,Tech Trends & Future,54.2
+2,9,Artificial Intelligence,90.7
+2,9,Machine Learning,87.0
+2,9,Software Development,88.9
+2,9,Data Science,86.3
+2,9,Cloud Computing,99.0
+2,9,Cybersecurity,91.3
+2,9,Web Development,88.3
+2,9,Tech Trends & Future,92.0
+2,10,Artificial Intelligence,90.7
+2,10,Machine Learning,90.2
+2,10,Software Development,93.6
+2,10,Data Science,94.2
+2,10,Cloud Computing,89.0
+2,10,Cybersecurity,88.8
+2,10,Web Development,90.0
+2,10,Tech Trends & Future,81.9
+2,11,Artificial Intelligence,85.1
+2,11,Machine Learning,96.6
+2,11,Software Development,97.7
+2,11,Data Science,90.1
+2,11,Cloud Computing,93.4
+2,11,Cybersecurity,92.4
+2,11,Web Development,99.0
+2,11,Tech Trends & Future,95.6
+2,12,Artificial Intelligence,90.6
+2,12,Machine Learning,87.3
+2,12,Software Development,84.7
+2,12,Data Science,91.9
+2,12,Cloud Computing,88.1
+2,12,Cybersecurity,85.4
+2,12,Web Development,88.5
+2,12,Tech Trends & Future,86.8
+2,13,Artificial Intelligence,84.4
+2,13,Machine Learning,81.2
+2,13,Software Development,77.6
+2,13,Data Science,83.5
+2,13,Cloud Computing,77.9
+2,13,Cybersecurity,74.2
+2,13,Web Development,83.7
+2,13,Tech Trends & Future,79.8
+2,14,Artificial Intelligence,73.5
+2,14,Machine Learning,76.9
+2,14,Software Development,74.1
+2,14,Data Science,72.1
+2,14,Cloud Computing,81.3
+2,14,Cybersecurity,85.3
+2,14,Web Development,72.0
+2,14,Tech Trends & Future,79.9
+2,15,Artificial Intelligence,75.0
+2,15,Machine Learning,75.7
+2,15,Software Development,75.3
+2,15,Data Science,74.2
+2,15,Cloud Computing,77.8
+2,15,Cybersecurity,74.3
+2,15,Web Development,78.7
+2,15,Tech Trends & Future,77.4
+2,16,Artificial Intelligence,76.7
+2,16,Machine Learning,74.0
+2,16,Software Development,75.3
+2,16,Data Science,80.6
+2,16,Cloud Computing,79.6
+2,16,Cybersecurity,73.7
+2,16,Web Development,78.0
+2,16,Tech Trends & Future,80.6
+2,17,Artificial Intelligence,94.6
+2,17,Machine Learning,99.0
+2,17,Software Development,98.6
+2,17,Data Science,99.0
+2,17,Cloud Computing,98.2
+2,17,Cybersecurity,94.0
+2,17,Web Development,94.7
+2,17,Tech Trends & Future,99.0
+2,18,Artificial Intelligence,99.0
+2,18,Machine Learning,97.6
+2,18,Software Development,99.0
+2,18,Data Science,94.6
+2,18,Cloud Computing,99.0
+2,18,Cybersecurity,96.4
+2,18,Web Development,98.6
+2,18,Tech Trends & Future,99.0
+2,19,Artificial Intelligence,97.8
+2,19,Machine Learning,99.0
+2,19,Software Development,99.0
+2,19,Data Science,98.9
+2,19,Cloud Computing,99.0
+2,19,Cybersecurity,96.7
+2,19,Web Development,99.0
+2,19,Tech Trends & Future,99.0
+2,20,Artificial Intelligence,91.4
+2,20,Machine Learning,98.1
+2,20,Software Development,99.0
+2,20,Data Science,99.0
+2,20,Cloud Computing,99.0
+2,20,Cybersecurity,98.8
+2,20,Web Development,99.0
+2,20,Tech Trends & Future,99.0
+2,21,Artificial Intelligence,62.0
+2,21,Machine Learning,58.4
+2,21,Software Development,58.7
+2,21,Data Science,55.7
+2,21,Cloud Computing,55.4
+2,21,Cybersecurity,55.6
+2,21,Web Development,59.0
+2,21,Tech Trends & Future,55.7
+2,22,Artificial Intelligence,58.5
+2,22,Machine Learning,65.7
+2,22,Software Development,60.9
+2,22,Data Science,56.1
+2,22,Cloud Computing,62.2
+2,22,Cybersecurity,55.7
+2,22,Web Development,49.2
+2,22,Tech Trends & Future,53.3
+2,23,Artificial Intelligence,49.9
+2,23,Machine Learning,56.0
+2,23,Software Development,57.4
+2,23,Data Science,64.1
+2,23,Cloud Computing,58.7
+2,23,Cybersecurity,56.5
+2,23,Web Development,60.7
+2,23,Tech Trends & Future,48.5
+3,0,Artificial Intelligence,24.6
+3,0,Machine Learning,26.7
+3,0,Software Development,17.7
+3,0,Data Science,28.2
+3,0,Cloud Computing,25.0
+3,0,Cybersecurity,22.0
+3,0,Web Development,26.2
+3,0,Tech Trends & Future,32.7
+3,1,Artificial Intelligence,24.4
+3,1,Machine Learning,24.6
+3,1,Software Development,21.8
+3,1,Data Science,20.2
+3,1,Cloud Computing,26.9
+3,1,Cybersecurity,20.2
+3,1,Web Development,23.9
+3,1,Tech Trends & Future,21.7
+3,2,Artificial Intelligence,25.5
+3,2,Machine Learning,25.0
+3,2,Software Development,27.8
+3,2,Data Science,21.6
+3,2,Cloud Computing,22.5
+3,2,Cybersecurity,19.7
+3,2,Web Development,21.8
+3,2,Tech Trends & Future,25.1
+3,3,Artificial Intelligence,26.7
+3,3,Machine Learning,19.9
+3,3,Software Development,27.1
+3,3,Data Science,29.0
+3,3,Cloud Computing,25.3
+3,3,Cybersecurity,31.1
+3,3,Web Development,20.5
+3,3,Tech Trends & Future,18.6
+3,4,Artificial Intelligence,16.5
+3,4,Machine Learning,29.6
+3,4,Software Development,26.2
+3,4,Data Science,23.4
+3,4,Cloud Computing,24.7
+3,4,Cybersecurity,19.1
+3,4,Web Development,33.4
+3,4,Tech Trends & Future,24.1
+3,5,Artificial Intelligence,24.1
+3,5,Machine Learning,26.5
+3,5,Software Development,25.5
+3,5,Data Science,24.5
+3,5,Cloud Computing,20.5
+3,5,Cybersecurity,25.5
+3,5,Web Development,31.2
+3,5,Tech Trends & Future,29.0
+3,6,Artificial Intelligence,63.7
+3,6,Machine Learning,55.3
+3,6,Software Development,53.4
+3,6,Data Science,56.9
+3,6,Cloud Computing,57.6
+3,6,Cybersecurity,61.8
+3,6,Web Development,50.6
+3,6,Tech Trends & Future,63.5
+3,7,Artificial Intelligence,56.7
+3,7,Machine Learning,55.7
+3,7,Software Development,53.3
+3,7,Data Science,50.8
+3,7,Cloud Computing,60.7
+3,7,Cybersecurity,57.7
+3,7,Web Development,52.2
+3,7,Tech Trends & Future,52.2
+3,8,Artificial Intelligence,56.0
+3,8,Machine Learning,64.1
+3,8,Software Development,56.3
+3,8,Data Science,51.4
+3,8,Cloud Computing,56.4
+3,8,Cybersecurity,56.3
+3,8,Web Development,46.6
+3,8,Tech Trends & Future,57.2
+3,9,Artificial Intelligence,90.2
+3,9,Machine Learning,93.9
+3,9,Software Development,98.5
+3,9,Data Science,95.6
+3,9,Cloud Computing,90.0
+3,9,Cybersecurity,86.7
+3,9,Web Development,99.0
+3,9,Tech Trends & Future,91.4
+3,10,Artificial Intelligence,91.2
+3,10,Machine Learning,91.0
+3,10,Software Development,91.9
+3,10,Data Science,90.5
+3,10,Cloud Computing,88.8
+3,10,Cybersecurity,88.9
+3,10,Web Development,91.0
+3,10,Tech Trends & Future,89.0
+3,11,Artificial Intelligence,88.3
+3,11,Machine Learning,91.6
+3,11,Software Development,90.1
+3,11,Data Science,97.1
+3,11,Cloud Computing,80.5
+3,11,Cybersecurity,95.5
+3,11,Web Development,96.1
+3,11,Tech Trends & Future,82.8
+3,12,Artificial Intelligence,89.8
+3,12,Machine Learning,89.6
+3,12,Software Development,85.5
+3,12,Data Science,88.0
+3,12,Cloud Computing,86.7
+3,12,Cybersecurity,98.1
+3,12,Web Development,94.9
+3,12,Tech Trends & Future,96.2
+3,13,Artificial Intelligence,80.5
+3,13,Machine Learning,73.1
+3,13,Software Development,75.5
+3,13,Data Science,79.6
+3,13,Cloud Computing,72.7
+3,13,Cybersecurity,80.5
+3,13,Web Development,76.7
+3,13,Tech Trends & Future,76.1
+3,14,Artificial Intelligence,80.5
+3,14,Machine Learning,79.4
+3,14,Software Development,76.2
+3,14,Data Science,82.3
+3,14,Cloud Computing,73.3
+3,14,Cybersecurity,80.1
+3,14,Web Development,80.0
+3,14,Tech Trends & Future,76.4
+3,15,Artificial Intelligence,78.9
+3,15,Machine Learning,72.6
+3,15,Software Development,81.3
+3,15,Data Science,76.9
+3,15,Cloud Computing,75.5
+3,15,Cybersecurity,81.8
+3,15,Web Development,74.8
+3,15,Tech Trends & Future,72.0
+3,16,Artificial Intelligence,71.4
+3,16,Machine Learning,80.0
+3,16,Software Development,72.5
+3,16,Data Science,84.6
+3,16,Cloud Computing,69.3
+3,16,Cybersecurity,84.4
+3,16,Web Development,78.5
+3,16,Tech Trends & Future,77.2
+3,17,Artificial Intelligence,99.0
+3,17,Machine Learning,99.0
+3,17,Software Development,99.0
+3,17,Data Science,99.0
+3,17,Cloud Computing,99.0
+3,17,Cybersecurity,99.0
+3,17,Web Development,99.0
+3,17,Tech Trends & Future,99.0
+3,18,Artificial Intelligence,99.0
+3,18,Machine Learning,94.4
+3,18,Software Development,95.9
+3,18,Data Science,99.0
+3,18,Cloud Computing,99.0
+3,18,Cybersecurity,99.0
+3,18,Web Development,99.0
+3,18,Tech Trends & Future,99.0
+3,19,Artificial Intelligence,99.0
+3,19,Machine Learning,98.1
+3,19,Software Development,99.0
+3,19,Data Science,97.3
+3,19,Cloud Computing,99.0
+3,19,Cybersecurity,94.4
+3,19,Web Development,99.0
+3,19,Tech Trends & Future,99.0
+3,20,Artificial Intelligence,99.0
+3,20,Machine Learning,99.0
+3,20,Software Development,99.0
+3,20,Data Science,99.0
+3,20,Cloud Computing,93.9
+3,20,Cybersecurity,96.1
+3,20,Web Development,98.8
+3,20,Tech Trends & Future,99.0
+3,21,Artificial Intelligence,59.4
+3,21,Machine Learning,54.5
+3,21,Software Development,58.1
+3,21,Data Science,54.4
+3,21,Cloud Computing,54.9
+3,21,Cybersecurity,51.7
+3,21,Web Development,53.7
+3,21,Tech Trends & Future,52.0
+3,22,Artificial Intelligence,53.5
+3,22,Machine Learning,61.6
+3,22,Software Development,53.6
+3,22,Data Science,67.9
+3,22,Cloud Computing,59.3
+3,22,Cybersecurity,58.1
+3,22,Web Development,53.9
+3,22,Tech Trends & Future,60.2
+3,23,Artificial Intelligence,55.1
+3,23,Machine Learning,57.9
+3,23,Software Development,67.6
+3,23,Data Science,57.0
+3,23,Cloud Computing,62.0
+3,23,Cybersecurity,54.6
+3,23,Web Development,57.2
+3,23,Tech Trends & Future,64.5
+4,0,Artificial Intelligence,16.7
+4,0,Machine Learning,26.5
+4,0,Software Development,22.1
+4,0,Data Science,17.0
+4,0,Cloud Computing,21.8
+4,0,Cybersecurity,23.1
+4,0,Web Development,21.7
+4,0,Tech Trends & Future,13.0
+4,1,Artificial Intelligence,16.3
+4,1,Machine Learning,18.3
+4,1,Software Development,19.0
+4,1,Data Science,21.7
+4,1,Cloud Computing,20.0
+4,1,Cybersecurity,13.9
+4,1,Web Development,20.8
+4,1,Tech Trends & Future,21.7
+4,2,Artificial Intelligence,21.5
+4,2,Machine Learning,23.6
+4,2,Software Development,22.6
+4,2,Data Science,21.1
+4,2,Cloud Computing,19.0
+4,2,Cybersecurity,12.6
+4,2,Web Development,21.0
+4,2,Tech Trends & Future,20.1
+4,3,Artificial Intelligence,20.3
+4,3,Machine Learning,14.1
+4,3,Software Development,14.9
+4,3,Data Science,23.5
+4,3,Cloud Computing,19.1
+4,3,Cybersecurity,22.0
+4,3,Web Development,19.4
+4,3,Tech Trends & Future,19.4
+4,4,Artificial Intelligence,23.0
+4,4,Machine Learning,17.2
+4,4,Software Development,19.6
+4,4,Data Science,17.4
+4,4,Cloud Computing,17.5
+4,4,Cybersecurity,18.0
+4,4,Web Development,20.1
+4,4,Tech Trends & Future,17.3
+4,5,Artificial Intelligence,24.3
+4,5,Machine Learning,15.7
+4,5,Software Development,18.5
+4,5,Data Science,17.5
+4,5,Cloud Computing,25.0
+4,5,Cybersecurity,20.0
+4,5,Web Development,23.4
+4,5,Tech Trends & Future,13.3
+4,6,Artificial Intelligence,47.8
+4,6,Machine Learning,50.3
+4,6,Software Development,47.1
+4,6,Data Science,51.0
+4,6,Cloud Computing,44.7
+4,6,Cybersecurity,52.4
+4,6,Web Development,55.9
+4,6,Tech Trends & Future,45.3
+4,7,Artificial Intelligence,45.0
+4,7,Machine Learning,52.6
+4,7,Software Development,53.1
+4,7,Data Science,44.7
+4,7,Cloud Computing,45.1
+4,7,Cybersecurity,45.6
+4,7,Web Development,41.4
+4,7,Tech Trends & Future,43.1
+4,8,Artificial Intelligence,42.7
+4,8,Machine Learning,43.7
+4,8,Software Development,46.6
+4,8,Data Science,47.7
+4,8,Cloud Computing,53.0
+4,8,Cybersecurity,42.8
+4,8,Web Development,50.7
+4,8,Tech Trends & Future,45.9
+4,9,Artificial Intelligence,74.1
+4,9,Machine Learning,76.9
+4,9,Software Development,69.8
+4,9,Data Science,75.8
+4,9,Cloud Computing,74.9
+4,9,Cybersecurity,76.2
+4,9,Web Development,75.4
+4,9,Tech Trends & Future,84.1
+4,10,Artificial Intelligence,71.7
+4,10,Machine Learning,72.1
+4,10,Software Development,71.8
+4,10,Data Science,72.0
+4,10,Cloud Computing,71.7
+4,10,Cybersecurity,79.0
+4,10,Web Development,79.9
+4,10,Tech Trends & Future,72.0
+4,11,Artificial Intelligence,70.9
+4,11,Machine Learning,76.1
+4,11,Software Development,72.0
+4,11,Data Science,76.8
+4,11,Cloud Computing,75.1
+4,11,Cybersecurity,68.2
+4,11,Web Development,80.4
+4,11,Tech Trends & Future,81.4
+4,12,Artificial Intelligence,71.8
+4,12,Machine Learning,72.7
+4,12,Software Development,75.4
+4,12,Data Science,75.6
+4,12,Cloud Computing,76.9
+4,12,Cybersecurity,82.3
+4,12,Web Development,73.5
+4,12,Tech Trends & Future,71.1
+4,13,Artificial Intelligence,57.7
+4,13,Machine Learning,60.3
+4,13,Software Development,63.1
+4,13,Data Science,70.4
+4,13,Cloud Computing,61.2
+4,13,Cybersecurity,64.1
+4,13,Web Development,63.2
+4,13,Tech Trends & Future,68.0
+4,14,Artificial Intelligence,73.4
+4,14,Machine Learning,61.1
+4,14,Software Development,61.3
+4,14,Data Science,67.4
+4,14,Cloud Computing,66.0
+4,14,Cybersecurity,70.6
+4,14,Web Development,65.6
+4,14,Tech Trends & Future,61.8
+4,15,Artificial Intelligence,65.6
+4,15,Machine Learning,67.7
+4,15,Software Development,66.5
+4,15,Data Science,65.3
+4,15,Cloud Computing,67.5
+4,15,Cybersecurity,67.9
+4,15,Web Development,68.8
+4,15,Tech Trends & Future,65.8
+4,16,Artificial Intelligence,62.6
+4,16,Machine Learning,63.8
+4,16,Software Development,68.1
+4,16,Data Science,60.0
+4,16,Cloud Computing,64.7
+4,16,Cybersecurity,61.7
+4,16,Web Development,63.4
+4,16,Tech Trends & Future,68.4
+4,17,Artificial Intelligence,83.3
+4,17,Machine Learning,82.7
+4,17,Software Development,77.1
+4,17,Data Science,85.5
+4,17,Cloud Computing,85.1
+4,17,Cybersecurity,91.2
+4,17,Web Development,81.3
+4,17,Tech Trends & Future,83.4
+4,18,Artificial Intelligence,83.5
+4,18,Machine Learning,88.8
+4,18,Software Development,82.1
+4,18,Data Science,83.6
+4,18,Cloud Computing,84.9
+4,18,Cybersecurity,83.2
+4,18,Web Development,80.7
+4,18,Tech Trends & Future,83.3
+4,19,Artificial Intelligence,86.8
+4,19,Machine Learning,78.4
+4,19,Software Development,83.0
+4,19,Data Science,79.7
+4,19,Cloud Computing,87.3
+4,19,Cybersecurity,76.4
+4,19,Web Development,80.3
+4,19,Tech Trends & Future,84.0
+4,20,Artificial Intelligence,88.8
+4,20,Machine Learning,82.2
+4,20,Software Development,80.3
+4,20,Data Science,90.0
+4,20,Cloud Computing,76.7
+4,20,Cybersecurity,73.7
+4,20,Web Development,84.3
+4,20,Tech Trends & Future,80.5
+4,21,Artificial Intelligence,42.7
+4,21,Machine Learning,49.6
+4,21,Software Development,47.7
+4,21,Data Science,44.5
+4,21,Cloud Computing,41.6
+4,21,Cybersecurity,50.2
+4,21,Web Development,49.4
+4,21,Tech Trends & Future,46.4
+4,22,Artificial Intelligence,54.1
+4,22,Machine Learning,42.5
+4,22,Software Development,40.6
+4,22,Data Science,44.0
+4,22,Cloud Computing,46.6
+4,22,Cybersecurity,47.7
+4,22,Web Development,45.8
+4,22,Tech Trends & Future,48.2
+4,23,Artificial Intelligence,41.7
+4,23,Machine Learning,52.5
+4,23,Software Development,46.4
+4,23,Data Science,51.2
+4,23,Cloud Computing,48.1
+4,23,Cybersecurity,48.6
+4,23,Web Development,49.0
+4,23,Tech Trends & Future,48.5
+5,0,Artificial Intelligence,15.7
+5,0,Machine Learning,18.4
+5,0,Software Development,13.9
+5,0,Data Science,16.0
+5,0,Cloud Computing,12.8
+5,0,Cybersecurity,18.9
+5,0,Web Development,10.4
+5,0,Tech Trends & Future,20.3
+5,1,Artificial Intelligence,13.0
+5,1,Machine Learning,10.0
+5,1,Software Development,13.6
+5,1,Data Science,10.4
+5,1,Cloud Computing,16.5
+5,1,Cybersecurity,10.5
+5,1,Web Development,11.3
+5,1,Tech Trends & Future,10.0
+5,2,Artificial Intelligence,11.3
+5,2,Machine Learning,10.0
+5,2,Software Development,10.0
+5,2,Data Science,16.2
+5,2,Cloud Computing,16.3
+5,2,Cybersecurity,14.8
+5,2,Web Development,10.0
+5,2,Tech Trends & Future,12.9
+5,3,Artificial Intelligence,13.1
+5,3,Machine Learning,10.0
+5,3,Software Development,19.1
+5,3,Data Science,16.6
+5,3,Cloud Computing,12.2
+5,3,Cybersecurity,13.2
+5,3,Web Development,14.0
+5,3,Tech Trends & Future,10.0
+5,4,Artificial Intelligence,12.1
+5,4,Machine Learning,10.4
+5,4,Software Development,10.0
+5,4,Data Science,12.0
+5,4,Cloud Computing,20.3
+5,4,Cybersecurity,15.7
+5,4,Web Development,10.8
+5,4,Tech Trends & Future,15.4
+5,5,Artificial Intelligence,18.7
+5,5,Machine Learning,16.8
+5,5,Software Development,13.4
+5,5,Data Science,10.5
+5,5,Cloud Computing,15.9
+5,5,Cybersecurity,14.7
+5,5,Web Development,16.7
+5,5,Tech Trends & Future,15.7
+5,6,Artificial Intelligence,36.1
+5,6,Machine Learning,29.7
+5,6,Software Development,37.1
+5,6,Data Science,32.7
+5,6,Cloud Computing,40.2
+5,6,Cybersecurity,29.1
+5,6,Web Development,38.8
+5,6,Tech Trends & Future,32.7
+5,7,Artificial Intelligence,29.3
+5,7,Machine Learning,29.9
+5,7,Software Development,30.6
+5,7,Data Science,33.6
+5,7,Cloud Computing,34.0
+5,7,Cybersecurity,29.6
+5,7,Web Development,31.8
+5,7,Tech Trends & Future,40.4
+5,8,Artificial Intelligence,38.8
+5,8,Machine Learning,33.6
+5,8,Software Development,32.0
+5,8,Data Science,32.4
+5,8,Cloud Computing,34.3
+5,8,Cybersecurity,27.8
+5,8,Web Development,30.8
+5,8,Tech Trends & Future,25.2
+5,9,Artificial Intelligence,52.2
+5,9,Machine Learning,53.2
+5,9,Software Development,48.7
+5,9,Data Science,56.9
+5,9,Cloud Computing,45.7
+5,9,Cybersecurity,44.8
+5,9,Web Development,51.5
+5,9,Tech Trends & Future,54.8
+5,10,Artificial Intelligence,57.4
+5,10,Machine Learning,48.8
+5,10,Software Development,54.9
+5,10,Data Science,50.5
+5,10,Cloud Computing,49.9
+5,10,Cybersecurity,54.2
+5,10,Web Development,53.2
+5,10,Tech Trends & Future,44.3
+5,11,Artificial Intelligence,56.5
+5,11,Machine Learning,56.1
+5,11,Software Development,48.1
+5,11,Data Science,52.2
+5,11,Cloud Computing,52.6
+5,11,Cybersecurity,51.7
+5,11,Web Development,48.4
+5,11,Tech Trends & Future,47.9
+5,12,Artificial Intelligence,50.5
+5,12,Machine Learning,55.3
+5,12,Software Development,52.8
+5,12,Data Science,49.1
+5,12,Cloud Computing,53.7
+5,12,Cybersecurity,39.2
+5,12,Web Development,55.2
+5,12,Tech Trends & Future,43.7
+5,13,Artificial Intelligence,41.7
+5,13,Machine Learning,38.6
+5,13,Software Development,37.9
+5,13,Data Science,47.8
+5,13,Cloud Computing,41.3
+5,13,Cybersecurity,44.5
+5,13,Web Development,42.9
+5,13,Tech Trends & Future,45.0
+5,14,Artificial Intelligence,43.4
+5,14,Machine Learning,38.0
+5,14,Software Development,47.1
+5,14,Data Science,41.1
+5,14,Cloud Computing,36.9
+5,14,Cybersecurity,41.4
+5,14,Web Development,49.1
+5,14,Tech Trends & Future,46.5
+5,15,Artificial Intelligence,41.7
+5,15,Machine Learning,41.7
+5,15,Software Development,41.8
+5,15,Data Science,51.4
+5,15,Cloud Computing,44.7
+5,15,Cybersecurity,44.8
+5,15,Web Development,47.2
+5,15,Tech Trends & Future,44.1
+5,16,Artificial Intelligence,42.1
+5,16,Machine Learning,42.3
+5,16,Software Development,42.8
+5,16,Data Science,43.0
+5,16,Cloud Computing,46.0
+5,16,Cybersecurity,43.3
+5,16,Web Development,46.1
+5,16,Tech Trends & Future,42.8
+5,17,Artificial Intelligence,56.6
+5,17,Machine Learning,48.3
+5,17,Software Development,59.9
+5,17,Data Science,57.6
+5,17,Cloud Computing,60.2
+5,17,Cybersecurity,44.7
+5,17,Web Development,64.6
+5,17,Tech Trends & Future,55.7
+5,18,Artificial Intelligence,60.7
+5,18,Machine Learning,52.1
+5,18,Software Development,58.7
+5,18,Data Science,52.0
+5,18,Cloud Computing,53.8
+5,18,Cybersecurity,63.9
+5,18,Web Development,55.5
+5,18,Tech Trends & Future,57.1
+5,19,Artificial Intelligence,59.7
+5,19,Machine Learning,58.2
+5,19,Software Development,56.9
+5,19,Data Science,57.7
+5,19,Cloud Computing,65.9
+5,19,Cybersecurity,56.0
+5,19,Web Development,57.1
+5,19,Tech Trends & Future,60.5
+5,20,Artificial Intelligence,60.7
+5,20,Machine Learning,61.0
+5,20,Software Development,58.8
+5,20,Data Science,51.7
+5,20,Cloud Computing,62.8
+5,20,Cybersecurity,51.7
+5,20,Web Development,57.5
+5,20,Tech Trends & Future,53.2
+5,21,Artificial Intelligence,31.6
+5,21,Machine Learning,33.2
+5,21,Software Development,33.2
+5,21,Data Science,33.6
+5,21,Cloud Computing,38.3
+5,21,Cybersecurity,33.7
+5,21,Web Development,30.9
+5,21,Tech Trends & Future,35.7
+5,22,Artificial Intelligence,36.6
+5,22,Machine Learning,27.0
+5,22,Software Development,34.3
+5,22,Data Science,34.7
+5,22,Cloud Computing,30.7
+5,22,Cybersecurity,37.4
+5,22,Web Development,31.3
+5,22,Tech Trends & Future,32.4
+5,23,Artificial Intelligence,31.2
+5,23,Machine Learning,31.9
+5,23,Software Development,27.5
+5,23,Data Science,26.1
+5,23,Cloud Computing,38.3
+5,23,Cybersecurity,28.5
+5,23,Web Development,27.9
+5,23,Tech Trends & Future,23.3
+6,0,Artificial Intelligence,10.6
+6,0,Machine Learning,10.0
+6,0,Software Development,19.7
+6,0,Data Science,17.2
+6,0,Cloud Computing,10.4
+6,0,Cybersecurity,22.1
+6,0,Web Development,17.1
+6,0,Tech Trends & Future,11.8
+6,1,Artificial Intelligence,10.0
+6,1,Machine Learning,22.3
+6,1,Software Development,10.0
+6,1,Data Science,10.0
+6,1,Cloud Computing,17.2
+6,1,Cybersecurity,22.9
+6,1,Web Development,18.7
+6,1,Tech Trends & Future,15.4
+6,2,Artificial Intelligence,15.5
+6,2,Machine Learning,16.5
+6,2,Software Development,16.2
+6,2,Data Science,14.2
+6,2,Cloud Computing,13.5
+6,2,Cybersecurity,12.9
+6,2,Web Development,10.1
+6,2,Tech Trends & Future,12.0
+6,3,Artificial Intelligence,10.0
+6,3,Machine Learning,12.7
+6,3,Software Development,10.0
+6,3,Data Science,10.0
+6,3,Cloud Computing,13.8
+6,3,Cybersecurity,18.7
+6,3,Web Development,16.8
+6,3,Tech Trends & Future,10.0
+6,4,Artificial Intelligence,10.0
+6,4,Machine Learning,16.9
+6,4,Software Development,10.0
+6,4,Data Science,12.2
+6,4,Cloud Computing,15.3
+6,4,Cybersecurity,10.0
+6,4,Web Development,13.5
+6,4,Tech Trends & Future,10.0
+6,5,Artificial Intelligence,10.7
+6,5,Machine Learning,14.4
+6,5,Software Development,10.0
+6,5,Data Science,14.9
+6,5,Cloud Computing,13.0
+6,5,Cybersecurity,15.3
+6,5,Web Development,14.0
+6,5,Tech Trends & Future,18.6
+6,6,Artificial Intelligence,32.4
+6,6,Machine Learning,30.2
+6,6,Software Development,32.4
+6,6,Data Science,34.0
+6,6,Cloud Computing,32.1
+6,6,Cybersecurity,32.0
+6,6,Web Development,29.1
+6,6,Tech Trends & Future,29.2
+6,7,Artificial Intelligence,26.3
+6,7,Machine Learning,38.9
+6,7,Software Development,26.9
+6,7,Data Science,29.1
+6,7,Cloud Computing,29.0
+6,7,Cybersecurity,35.5
+6,7,Web Development,30.7
+6,7,Tech Trends & Future,36.9
+6,8,Artificial Intelligence,29.2
+6,8,Machine Learning,33.0
+6,8,Software Development,28.5
+6,8,Data Science,40.5
+6,8,Cloud Computing,27.1
+6,8,Cybersecurity,33.1
+6,8,Web Development,34.4
+6,8,Tech Trends & Future,33.5
+6,9,Artificial Intelligence,49.9
+6,9,Machine Learning,50.1
+6,9,Software Development,50.8
+6,9,Data Science,50.0
+6,9,Cloud Computing,54.5
+6,9,Cybersecurity,59.5
+6,9,Web Development,48.4
+6,9,Tech Trends & Future,45.1
+6,10,Artificial Intelligence,50.3
+6,10,Machine Learning,60.9
+6,10,Software Development,47.4
+6,10,Data Science,57.2
+6,10,Cloud Computing,57.3
+6,10,Cybersecurity,48.4
+6,10,Web Development,52.9
+6,10,Tech Trends & Future,57.1
+6,11,Artificial Intelligence,49.1
+6,11,Machine Learning,49.8
+6,11,Software Development,48.3
+6,11,Data Science,46.6
+6,11,Cloud Computing,48.0
+6,11,Cybersecurity,45.7
+6,11,Web Development,50.8
+6,11,Tech Trends & Future,47.5
+6,12,Artificial Intelligence,51.6
+6,12,Machine Learning,44.4
+6,12,Software Development,51.9
+6,12,Data Science,54.0
+6,12,Cloud Computing,42.7
+6,12,Cybersecurity,52.1
+6,12,Web Development,55.5
+6,12,Tech Trends & Future,45.8
+6,13,Artificial Intelligence,49.8
+6,13,Machine Learning,44.8
+6,13,Software Development,40.3
+6,13,Data Science,42.9
+6,13,Cloud Computing,45.4
+6,13,Cybersecurity,43.4
+6,13,Web Development,45.3
+6,13,Tech Trends & Future,39.4
+6,14,Artificial Intelligence,43.8
+6,14,Machine Learning,37.5
+6,14,Software Development,42.7
+6,14,Data Science,39.5
+6,14,Cloud Computing,40.2
+6,14,Cybersecurity,48.1
+6,14,Web Development,47.5
+6,14,Tech Trends & Future,45.6
+6,15,Artificial Intelligence,38.8
+6,15,Machine Learning,41.9
+6,15,Software Development,48.0
+6,15,Data Science,43.7
+6,15,Cloud Computing,52.4
+6,15,Cybersecurity,44.7
+6,15,Web Development,43.9
+6,15,Tech Trends & Future,41.9
+6,16,Artificial Intelligence,43.7
+6,16,Machine Learning,42.5
+6,16,Software Development,46.0
+6,16,Data Science,47.0
+6,16,Cloud Computing,40.0
+6,16,Cybersecurity,37.8
+6,16,Web Development,35.8
+6,16,Tech Trends & Future,45.2
+6,17,Artificial Intelligence,51.8
+6,17,Machine Learning,47.6
+6,17,Software Development,57.8
+6,17,Data Science,66.2
+6,17,Cloud Computing,56.2
+6,17,Cybersecurity,59.6
+6,17,Web Development,56.6
+6,17,Tech Trends & Future,55.9
+6,18,Artificial Intelligence,59.9
+6,18,Machine Learning,55.1
+6,18,Software Development,57.3
+6,18,Data Science,57.5
+6,18,Cloud Computing,53.6
+6,18,Cybersecurity,60.2
+6,18,Web Development,55.6
+6,18,Tech Trends & Future,53.2
+6,19,Artificial Intelligence,58.4
+6,19,Machine Learning,52.7
+6,19,Software Development,56.4
+6,19,Data Science,56.2
+6,19,Cloud Computing,60.6
+6,19,Cybersecurity,58.1
+6,19,Web Development,56.1
+6,19,Tech Trends & Future,59.5
+6,20,Artificial Intelligence,61.8
+6,20,Machine Learning,58.5
+6,20,Software Development,56.3
+6,20,Data Science,51.0
+6,20,Cloud Computing,52.0
+6,20,Cybersecurity,55.0
+6,20,Web Development,53.8
+6,20,Tech Trends & Future,55.5
+6,21,Artificial Intelligence,32.1
+6,21,Machine Learning,34.0
+6,21,Software Development,31.6
+6,21,Data Science,33.8
+6,21,Cloud Computing,32.1
+6,21,Cybersecurity,24.0
+6,21,Web Development,28.1
+6,21,Tech Trends & Future,31.3
+6,22,Artificial Intelligence,27.0
+6,22,Machine Learning,34.3
+6,22,Software Development,38.0
+6,22,Data Science,36.8
+6,22,Cloud Computing,31.0
+6,22,Cybersecurity,37.8
+6,22,Web Development,32.5
+6,22,Tech Trends & Future,30.5
+6,23,Artificial Intelligence,29.4
+6,23,Machine Learning,30.7
+6,23,Software Development,30.3
+6,23,Data Science,32.6
+6,23,Cloud Computing,32.5
+6,23,Cybersecurity,31.9
+6,23,Web Development,33.6
+6,23,Tech Trends & Future,36.6

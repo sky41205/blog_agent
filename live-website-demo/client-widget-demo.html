@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>External Client Website — Powered by Blogger Subscription API</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #f8fafc;
+      color: #0f172a;
+      line-height: 1.5;
+    }
+    .client-header {
+      background: #ffffff;
+      border-bottom: 1px solid #e2e8f0;
+      padding: 16px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .client-logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .client-logo-icon {
+      width: 36px;
+      height: 36px;
+      background: #0f172a;
+      color: #38bdf8;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 18px;
+    }
+    .client-logo h2 {
+      font-size: 16px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+    }
+    .client-logo span {
+      font-size: 11px;
+      color: #64748b;
+      font-weight: 600;
+    }
+    .client-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #eef2ff;
+      border: 1px solid #c7d2fe;
+      color: #4338ca;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 6px 14px;
+      border-radius: 9999px;
+    }
+    .hero-banner {
+      max-width: 1200px;
+      margin: 32px auto 0 auto;
+      padding: 0 20px;
+    }
+    .hero-card {
+      background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%);
+      color: #ffffff;
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1);
+      position: relative;
+      overflow: hidden;
+    }
+    .hero-card h1 {
+      font-size: 28px;
+      font-weight: 800;
+      margin-bottom: 10px;
+    }
+    .hero-card p {
+      color: #c7d2fe;
+      font-size: 14px;
+      max-width: 700px;
+      line-height: 1.6;
+    }
+    .integration-pill {
+      margin-top: 20px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255,255,255,0.1);
+      backdrop-filter: blur(8px);
+      padding: 8px 16px;
+      border-radius: 12px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      color: #e0e7ff;
+      border: 1px solid rgba(255,255,255,0.2);
+    }
+    .main-wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 32px 20px 80px 20px;
+    }
+    .sdk-explainer {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      border-radius: 16px;
+      padding: 24px;
+      margin-bottom: 32px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+    .sdk-explainer h3 {
+      font-size: 16px;
+      font-weight: 800;
+      margin-bottom: 8px;
+      color: #0f172a;
+    }
+    .sdk-explainer p {
+      font-size: 13px;
+      color: #64748b;
+      margin-bottom: 12px;
+    }
+    .code-box {
+      background: #0f172a;
+      color: #f8fafc;
+      padding: 14px 18px;
+      border-radius: 10px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      overflow-x: auto;
+    }
+    .btn-return {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: #0f172a;
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 8px 16px;
+      border-radius: 8px;
+      margin-top: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- External Client Top Bar -->
+  <header class="client-header">
+    <div class="client-logo">
+      <div class="client-logo-icon">🌐</div>
+      <div>
+        <h2>TechSphere Daily (External Client Website)</h2>
+        <span>Simulating an external customer paying for the Blogger Subscription API</span>
+      </div>
+    </div>
+    <div>
+      <span class="client-badge">⚡ Subscribed via API Key: <code>blg_test_demo...</code></span>
+    </div>
+  </header>
+
+  <!-- Hero Banner -->
+  <div class="hero-banner">
+    <div class="hero-card">
+      <h1>TechSphere Daily Publication Hub</h1>
+      <p>
+        This external website has zero editorial writers on staff. Instead, it subscribes to the <strong>Autonomous Blogger Commercial API</strong>. All articles below are retrieved live, fact-checked against Google Cloud Vertex AI, and rendered dynamically via the subscription embed SDK.
+      </p>
+      <div class="integration-pill">
+        <span>🔌 Integration: &lt;script src="http://localhost:5000/api/public/blogger-client.js" data-api-key="blg_test_..."&gt;</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Main Content Wrap -->
+  <main class="main-wrap">
+    <!-- Explainer box -->
+    <div class="sdk-explainer">
+      <h3>How this external site integrates in under 60 seconds:</h3>
+      <p>The client website pasted this single snippet into their HTML:</p>
+      <div class="code-box">
+&lt;div id="client-blogger-feed"&gt;&lt;/div&gt;
+&lt;script 
+  src="http://localhost:5000/api/public/blogger-client.js"
+  data-api-key="blg_test_demo_free_developer_2026"
+  data-container="#client-blogger-feed"
+  data-limit="6"&gt;
+&lt;/script&gt;
+      </div>
+      <div style="display:flex; gap:12px; margin-top:12px;">
+        <a href="http://localhost:3000/subscriptions" target="_blank" class="btn-return">
+          💳 Manage API Subscriptions & MRR &rarr;
+        </a>
+        <a href="http://localhost:3001" class="btn-return" style="background:#4338ca;">
+          🚀 View Main Live Website &rarr;
+        </a>
+      </div>
+    </div>
+
+    <!-- TARGET CONTAINER FOR COMMERCIAL CLIENT WIDGET -->
+    <div id="client-blogger-feed"></div>
+  </main>
+
+  <!-- DROP-IN COMMERCIAL CLIENT WIDGET SCRIPT -->
+  <script 
+    src="http://localhost:5000/api/public/blogger-client.js"
+    data-api-key="blg_test_demo_free_developer_2026"
+    data-container="#client-blogger-feed"
+    data-limit="6">
+  </script>
+
+</body>
+</html>

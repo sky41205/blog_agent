@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Autonomous Tech & Ground Hub — Real-Time Trends & Publications</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+  <!-- Real-Time Visitor Telemetry Script -->
+  <script data-blogger-site="live-demo-web" src="http://localhost:5000/api/public/tracker.js" async></script>
+</head>
+<body>
+  <!-- Top Global Real-Time Ticker -->
+  <div class="top-radar-ticker">
+    <div class="container top-ticker-content">
+      <div class="live-pulse-badge">
+        <span class="pulse-dot"></span>
+        <span class="pulse-text">REAL-TIME SIGNAL RADAR</span>
+        <span id="live-tick-clock" class="tick-timer">00s</span>
+      </div>
+      
+      <div class="ticker-marquee-wrap">
+        <div id="ticker-stream" class="ticker-stream">
+          <span class="ticker-item">⚡ Ingesting Real-Time Search & Internet Signals...</span>
+        </div>
+      </div>
+
+      <div class="ticker-controls">
+        <button id="auto-refresh-toggle" class="btn-ticker-toggle" title="Toggle 1-Second Auto Refresh">
+          <span class="toggle-icon">⚡</span> <span id="auto-refresh-label">Auto-Pulse: ON (1s)</span>
+        </button>
+        <button id="manual-refresh-btn" class="btn-ticker-refresh" title="Force Recalculate Trends & Assumptions">
+          🔄 Refresh Now
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container header-content">
+      <div class="logo">
+        <div class="logo-icon-wrap">🚀</div>
+        <div>
+          <h2>AUTONOMOUS BLOGGER</h2>
+          <span class="logo-sub">AI & ML REAL-TIME PUBLICATION ENGINE</span>
+        </div>
+      </div>
+      <nav class="nav">
+        <a href="#feed" class="active">Articles & Stories</a>
+        <a href="#radar-section">Trend Assumptions</a>
+        <a href="/client-widget-demo.html" class="nav-btn" style="background:#0284c7; color:#fff; border-radius:8px; padding:6px 12px; font-weight:700; text-decoration:none;">🌐 External Client Demo</a>
+        <a href="http://localhost:3000/subscriptions" target="_blank" class="nav-btn" style="background:#4f46e5; color:#fff; border-radius:8px; padding:6px 12px; font-weight:700; text-decoration:none;">💳 API Subscriptions</a>
+        <a href="http://localhost:3000" target="_blank" class="nav-btn admin-btn">⚡ AI Admin Studio</a>
+        <a href="http://localhost:5000/api/public/feed.xml" target="_blank" class="nav-btn rss-btn">📡 RSS Feed</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero-badge">
+        <span>🌐 Autonomous AI + ML Blog Network</span>
+        <span class="badge-dot">·</span>
+        <span id="header-sync-status">🟢 Live Synced to Database</span>
+      </div>
+      <h1 class="hero-title">Live Published Articles & Real-Time Trend Intelligence</h1>
+      <p class="hero-desc">
+        Watch how autonomous AI agents discover viral internet signals, compute ML predictive assumptions at every second, and publish production-grade articles instantly to the web.
+      </p>
+
+      <!-- Real-Time Trend & Assumption Spotlight Card -->
+      <div class="radar-spotlight" id="radar-section">
+        <div class="spotlight-header">
+          <div class="spotlight-title-wrap">
+            <span class="spotlight-badge">🧠 Live Predictive ML Radar</span>
+            <h3 id="spotlight-trend-title">Loading Real-Time Trend Analysis...</h3>
+          </div>
+          <div class="spotlight-actions">
+            <span id="last-refresh-time" class="timestamp-badge">Refreshed 0s ago</span>
+            <button id="spotlight-refresh-btn" class="btn-spotlight-refresh">
+              <span>🔄 Recalculate Assumptions</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Metric Gauges Grid -->
+        <div class="metrics-grid">
+          <div class="metric-card">
+            <span class="metric-label">🔥 Search Velocity</span>
+            <div class="metric-val" id="metric-velocity">+340%/hr</div>
+            <span class="metric-sub" id="metric-volume">~14,200 search volume</span>
+          </div>
+
+          <div class="metric-card">
+            <span class="metric-label">⚡ Viral Multiplier</span>
+            <div class="metric-val text-emerald" id="metric-viral">2.45x</div>
+            <span class="metric-sub">Predicted Social Reach</span>
+          </div>
+
+          <div class="metric-card">
+            <span class="metric-label">🎯 SERP Window</span>
+            <div class="metric-val text-amber" id="metric-serp">Instant (48h)</div>
+            <span class="metric-sub">Low Competition Index</span>
+          </div>
+
+          <div class="metric-card">
+            <span class="metric-label">⏱️ Read Dwell Expectation</span>
+            <div class="metric-val text-indigo" id="metric-dwell">5.8 mins</div>
+            <span class="metric-sub" id="metric-completion">92% Completion Rate</span>
+          </div>
+        </div>
+
+        <!-- Predictive AI Assumptions Box -->
+        <div class="assumptions-box">
+          <div class="assumptions-box-title">
+            <span>💡 Real-Time AI Predictions & Momentum Assumptions (Recalculated Live):</span>
+          </div>
+          <ul id="assumptions-list" class="assumptions-list">
+            <li>Ingesting live signals from search engines, Hacker News, and Dev.to...</li>
+          </ul>
+          <div class="assumptions-footer">
+            <div class="target-intent-pill" id="target-intent-pill">
+              🎯 <strong>Intent:</strong> Architectural Blueprint & Technical Implementation
+            </div>
+            <a href="http://localhost:3000/writer" target="_blank" class="btn-write-trend">
+              ✨ Write & Publish on this Trend &rarr;
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Live Feed Section -->
+  <main class="container" id="feed">
+    <div class="feed-header">
+      <div class="feed-title-wrap" style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
+        <div>
+          <h2>Published Articles Live on Web</h2>
+          <p class="feed-subtitle">These articles were autonomously synthesized, SEO-optimized, and published to the live API.</p>
+        </div>
+        <button id="feed-refresh-btn" class="btn-ticker-refresh" style="cursor:pointer;">
+          🔄 Refresh Articles
+        </button>
+      </div>
+      
+      <!-- Category & Search Bar -->
+      <div class="filter-controls">
+        <div class="search-input-wrap">
+          <span class="search-icon">🔍</span>
+          <input 
+            type="text" 
+            id="search-input" 
+            placeholder="Search published articles, keywords, topics..." 
+          />
+        </div>
+        <div id="category-pills" class="category-pills"></div>
+      </div>
+    </div>
+
+    <!-- Article Cards Grid -->
+    <div id="articles-grid" class="articles-grid">
+      <div class="loading-spinner">
+        <div class="spinner-ring"></div>
+        <span>Connecting to live API at <code>http://localhost:5000/api/public/blogs</code>...</span>
+      </div>
+    </div>
+    <!-- Real-Time Live Publication & Webhook Activity Stream (Logs) -->
+    <section class="live-logs-section" id="logs-section">
+      <div class="logs-header">
+        <div class="logs-title-wrap">
+          <div class="live-pulse-badge">
+            <span class="pulse-dot"></span>
+            <span class="pulse-text">REAL-TIME PUBLICATION LOGS</span>
+          </div>
+          <h3>Live Published Articles & Webhook Dispatch Stream</h3>
+          <p class="logs-subtitle">Every article published by Autonomous Blogger and synced via webhook is streamed here in real-time.</p>
+        </div>
+        <div class="logs-actions">
+          <button id="logs-refresh-btn" class="btn-ticker-refresh" onclick="fetchLiveLogs()">
+            🔄 Refresh Logs
+          </button>
+        </div>
+      </div>
+      <div class="logs-terminal">
+        <div class="terminal-bar">
+          <div class="terminal-dots">
+            <span class="dot red"></span>
+            <span class="dot yellow"></span>
+            <span class="dot green"></span>
+          </div>
+          <span class="terminal-title">live-stream :: /api/public/logs (Event Feed)</span>
+          <span class="terminal-status" id="logs-stream-status">● Live Stream (2s)</span>
+        </div>
+        <div id="logs-feed" class="logs-feed">
+          <div class="log-entry">
+            <span class="log-time">[Loading]</span>
+            <span class="log-tag info">STREAM CONNECTING</span>
+            <span class="log-text">Connecting to real-time publication stream...</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Article Detail Modal -->
+  <div id="article-modal" class="modal">
+    <div class="modal-content">
+      <button id="modal-close" class="modal-close" title="Close modal">&times;</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container footer-content">
+      <div class="footer-left">
+        <div class="logo">
+          <div class="logo-icon-wrap">🚀</div>
+          <div>
+            <h3>AUTONOMOUS BLOGGER NETWORK</h3>
+            <span>Real-Time AI & ML Content Publishing Engine</span>
+          </div>
+        </div>
+        <p class="footer-text">
+          Engineered for autonomous keyword clustering, live trend prediction, continuous SEO ranking, and real-time visitor telemetry tracking.
+        </p>
+      </div>
+      <div class="footer-right">
+        <div class="footer-col">
+          <h4>Platform Hubs</h4>
+          <a href="http://localhost:3000" target="_blank">AI Admin Studio</a>
+          <a href="http://localhost:8000/docs" target="_blank">FastAPI ML Docs</a>
+          <a href="http://localhost:5000/api/public/blogs" target="_blank">Public REST API</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom container">
+      <p>&copy; 2026 Autonomous Blogger System. Powered by FastAPI ML Engine, Express.js & React.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+# Google Cloud Build Pipeline — Project: bolg-agent
+# Builds, tests, and deploys Blogger microservices to Google Cloud Run
+# Fully covered by Google Cloud Credits under Billing Account 01BDC6-EB392B-26E85B
+
+steps:
+  # 1. Build & Push ML Microservice
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/ml-service:latest', './ml-service']
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/ml-service:latest']
+
+  # 2. Deploy ML Microservice to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'ml-service'
+      - '--image'
+      - 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/ml-service:latest'
+      - '--region'
+      - 'asia-southeast1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--memory'
+      - '1Gi'
+      - '--cpu'
+      - '1'
+
+  # 3. Build & Push Node.js Backend API
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/backend:latest', './backend']
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/backend:latest']
+
+  # 4. Deploy Backend API to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'blogger-backend'
+      - '--image'
+      - 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/backend:latest'
+      - '--region'
+      - 'asia-southeast1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--set-env-vars'
+      - 'GOOGLE_PROJECT_ID=bolg-agent,AI_PROVIDER=vertex'
+
+  # 5. Build & Deploy React Frontend
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/frontend:latest', './frontend']
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/frontend:latest']
+
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'blogger-frontend'
+      - '--image'
+      - 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/frontend:latest'
+      - '--region'
+      - 'asia-southeast1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+
+images:
+  - 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/ml-service:latest'
+  - 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/backend:latest'
+  - 'asia-southeast1-docker.pkg.dev/$PROJECT_ID/blogger-services/frontend:latest'
+
+options:
+  logging: CLOUD_LOGGING_ONLY
